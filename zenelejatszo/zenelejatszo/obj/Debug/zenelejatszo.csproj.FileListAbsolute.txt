@@ -1,0 +1,15 @@
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\bin\Debug\zenelejatszo.exe.config
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\bin\Debug\zenelejatszo.exe
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\bin\Debug\zenelejatszo.pdb
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\obj\Debug\zenelejatszo.csprojAssemblyReference.cache
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\obj\Debug\MainWindow.g.cs
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\obj\Debug\App.g.cs
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\obj\Debug\zenelejatszo_MarkupCompile.cache
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\obj\Debug\zenelejatszo_MarkupCompile.lref
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\obj\Debug\MainWindow.baml
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\obj\Debug\zenelejatszo.g.resources
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\obj\Debug\zenelejatszo.Properties.Resources.resources
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\obj\Debug\zenelejatszo.csproj.GenerateResource.cache
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\obj\Debug\zenelejatszo.csproj.CoreCompileInputs.cache
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\obj\Debug\zenelejatszo.exe
+C:\Users\vassr\Desktop\zenelejatszo\zenelejatszo\obj\Debug\zenelejatszo.pdb
